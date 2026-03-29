@@ -1,0 +1,20 @@
+# secrets
+.env
+.secrets.toml
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# outputs
+output/
+extracted_frames/
+annotated_frames/
+
+# streamlit
+.streamlit/
+
+# misc
+.DS_Store
